@@ -16,5 +16,3 @@ function johnLennonFacts (facts) {
   }
   return checkedFacts
 }
-
-
