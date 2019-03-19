@@ -11,7 +11,7 @@ function johnLennonFacts (facts) {
   var checkedFacts = [];
   var i = 0;
   while (i < facts.length) {
-    checkedFacts.push(`${checkedFacts[i]}!!!`);
+    checkedFacts.push(`${facts[i]}!!!`);
     i++;
   }
   return checkedFacts
